@@ -4,7 +4,11 @@ The Keep Notes project is a web-based note-taking application developed using Se
 Technologies Used:
 
 Servlets: Handling HTTP requests and generating dynamic web content.
+
 Hibernate: Object-relational mapping (ORM) framework for interacting with the database.
+
 Java: Core programming language used for backend logic and business rules.
+
 HTML/CSS/JavaScript: Frontend technologies for designing the user interface and enhancing interactivity.
+
 Oracle: Relational database management system for storing user data and notes.
